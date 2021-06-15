@@ -1,7 +1,7 @@
 ---
 layout: default
-title: about me
-permalink: /about/
+title: curriculuim vitae
+permalink: /cv/
 ---
 
 ### Minimalist
